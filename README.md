@@ -25,7 +25,7 @@ Superman | Batman | Flash |  Mulher maravilha | Aquamam | Lanterna verde | Caça
 
 #### Superman
 
-![supermam ](https://github.com/Jonathanwsr/desafio-github-markdown/assets/126990110/b6c6d1b5-09dd-4968-aea8-539f2f79e2ee.gif)
+<img src="https://github.com/Jonathanwsr/desafio-github-markdown/assets/126990110/b6c6d1b5-09dd-4968-aea8-539f2f79e2ee.gif" width="500" height="300">
 
 
 - Identidade: Clark Kent / Kal-El
@@ -40,8 +40,8 @@ Superman | Batman | Flash |  Mulher maravilha | Aquamam | Lanterna verde | Caça
   
 
 #### Batman
+<img src="https://github.com/Jonathanwsr/desafio-github-markdown/assets/126990110/136cd7f4-1025-4812-9ec3-dd30f6abb1ac" width="500" height="300">
 
-![Batmam ](https://github.com/Jonathanwsr/desafio-github-markdown/assets/126990110/136cd7f4-1025-4812-9ec3-dd30f6abb1ac)
 
 
 - Identidade: Bruce Wayne
@@ -56,8 +56,8 @@ Superman | Batman | Flash |  Mulher maravilha | Aquamam | Lanterna verde | Caça
 
 #### Mulher maravilha 
 
-![Mulher maravilha ](https://github.com/Jonathanwsr/desafio-github-markdown/assets/126990110/a02b037c-ab55-4ee7-a51f-db908eeeb37c)
 
+<img src="https://github.com/Jonathanwsr/desafio-github-markdown/assets/126990110/a02b037c-ab55-4ee7-a51f-db908eeeb37c" width="500" height="300">
 
 - Identidade: Diana Prince / Diana de Themyscira
 - Origem: Themyscira (Ilha Paraíso)
@@ -71,8 +71,8 @@ Superman | Batman | Flash |  Mulher maravilha | Aquamam | Lanterna verde | Caça
 
 
  ####  Aquaman
+<img src="https://github.com/Jonathanwsr/desafio-github-markdown/assets/126990110/2da02a64-53e0-4cb6-8319-ef90cdab75e4" width="500" height="300">
 
- ![Aquaman](https://github.com/Jonathanwsr/desafio-github-markdown/assets/126990110/2da02a64-53e0-4cb6-8319-ef90cdab75e4)
 
 - Identidade: Arthur Curry / Orin
 - Origem: Atlântida
@@ -86,8 +86,8 @@ Superman | Batman | Flash |  Mulher maravilha | Aquamam | Lanterna verde | Caça
 
  ####  Flash
 
-
- ![Flash](https://github.com/Jonathanwsr/desafio-github-markdown/assets/126990110/ebc0771d-619d-4b04-8c6e-e529e8395e7f)
+<img src="https://github.com/Jonathanwsr/desafio-github-markdown/assets/126990110/ebc0771d-619d-4b04-8c6e-e529e8395e7f" width="500" height="300">
+ 
 
 - Identidade: Barry Allen
 - Origem: Central City
@@ -101,12 +101,11 @@ Superman | Batman | Flash |  Mulher maravilha | Aquamam | Lanterna verde | Caça
 
 #### Lanterna Verde
 
-
-![Lanterna verde](https://github.com/Jonathanwsr/desafio-github-markdown/assets/126990110/32ff8d74-e80a-4250-ae90-2f9f6948997d)
-
+<img src="https://github.com/Jonathanwsr/desafio-github-markdown/assets/126990110/32ff8d74-e80a-4250-ae90-2f9f6948997d" width="500" height="300">
 
 
-- Identidade: Hal Jordan (um dos Lanternas Verdes mais famosos)
+
+- Identidade: John Stewart (um dos Lanternas Verdes mais famosos)
 - Origem: Coast City
 - Habilidades: Anel de poder que pode criar qualquer coisa que sua imaginação conceba, vôo, viagem interestelar, e construção de energia.
 - Descrição: Escolhido para portar um anel de poder pelos Guardiões do Universo, Hal Jordan é um dos membros da Tropa dos Lanternas Verdes, responsáveis por manter a paz em todo o 
@@ -117,8 +116,7 @@ Superman | Batman | Flash |  Mulher maravilha | Aquamam | Lanterna verde | Caça
 
 #### Caçador de marte 
 
-
-![Caçador de marte ](https://github.com/Jonathanwsr/desafio-github-markdown/assets/126990110/8c8b19f6-166c-4180-a9b6-b538ab3bc361)
+<img src="https://github.com/Jonathanwsr/desafio-github-markdown/assets/126990110/026f625c-2a15-40f4-a3c4-f27739aec6bc" width="500" height="300">
 
 
 - Identidade: J'onn J'onzz / John Jones
