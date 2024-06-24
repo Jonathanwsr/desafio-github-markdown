@@ -2,7 +2,7 @@
 Repositório para desafio do curso Dio  github 
 
 <p align="center">
-<img src="https://github.com/Jonathanwsr/desafio-github-markdown/assets/126990110/9bf45b2b-b906-4ca6-a98b-852a8cb418d1" width="800px"> 
+<img src="https://github.com/Jonathanwsr/desafio-github-markdown/assets/126990110/e1a14e94-ab66-478d-bcd0-beab6d2c51d8" width="800px"> 
 <p/>
 
 
@@ -25,7 +25,7 @@ Superman | Batman | Flash |  Mulher maravilha | Aquamam | Lanterna verde | Caça
 
 #### Superman
 
-<img src="https://github.com/Jonathanwsr/desafio-github-markdown/assets/126990110/b6c6d1b5-09dd-4968-aea8-539f2f79e2ee.gif" width="500" height="300">
+<img src="https://github.com/Jonathanwsr/desafio-github-markdown/assets/126990110/cccaaf56-676f-4c41-a528-c0436bd29703" width="500" height="300">
 
 
 - Identidade: Clark Kent / Kal-El
